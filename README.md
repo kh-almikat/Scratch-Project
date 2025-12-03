@@ -1,4 +1,4 @@
-# Scratch-Project
+# Scratch-Project(MIT)
 
 ## 📖 Overview
 This project is built using **Scratch**, the visual programming language developed by MIT.  
@@ -39,7 +39,21 @@ By exploring this Scratch project, learners will:
 
 ---
 
-  
+# 👨‍💻 Author
+
+👤 Khondoker Almikat  
+📧 khondoker.almikat@gmail.com  
+Bangladesh 🇧🇩 <br><br>
+
+
+
+⭐ Support the Project
+
+If you like this repository, don't forget to:
+
+👍 Star this repo  
+🔄 Fork it  
+🐞 Report issues    
 
 ---
 
