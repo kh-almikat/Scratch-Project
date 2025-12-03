@@ -43,7 +43,7 @@ By exploring this Scratch project, learners will:
 
 👤 Khondoker Almikat  
 📧 khondoker.almikat@gmail.com  
-Bangladesh 🇧🇩 <br><br>
+  Bangladesh <🇧🇩><br>
 
 
 
