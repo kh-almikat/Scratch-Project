@@ -1,6 +1,6 @@
 # Scratch-Project(MIT)
 
-# 📖 Overview
+## 📖 Overview
 This project is built using **Scratch**, the visual programming language developed by MIT.  
 Scratch allows users to create interactive stories, games, and animations through **drag-and-drop coding blocks** without needing to write traditional code.  
 
@@ -8,7 +8,7 @@ This project demonstrates **creative programming** and interactive design, helpi
 
 ---
 
-# ✨ Features / Projects Included
+## ✨ Features / Projects Included
 This Scratch project includes a variety of interactive creations that help learners practice programming concepts:
 
 - **Interactive Animations**: Characters that respond to user input and events.  
@@ -20,7 +20,7 @@ Each project emphasizes **hands-on learning and creativity**, making coding acce
 
 ---
 
-# 🎯 Learning Objectives
+## 🎯 Learning Objectives
 By exploring this Scratch project, learners will:
 
 - Understand the basics of **visual programming** in Scratch.  
@@ -31,19 +31,19 @@ By exploring this Scratch project, learners will:
 
 ---
 
-# 🚀 How to Run
-### 1. Go to [Scratch Website](https://scratch.mit.edu/).  
+## 🚀 How to Run
+#### 1. Go to [Scratch Website](https://scratch.mit.edu/).  
 2. Sign in or create a free account.  
 3. Open the project link and click the green **“Start”** button to run your projects.  
 4. Explore and modify the project to learn more!  
 
 ---
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 
 👤 Khondoker Almikat  
 📧 khondoker.almikat@gmail.com  
-🌐 Bangladesh <br>
+🌐 Bangladesh <br>  
 
 
 
